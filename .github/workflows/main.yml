@@ -40,4 +40,4 @@ jobs:
           context: ./
           file: ./Dockerfile
           push: false
-          tags: alfredodeza/flask-app:latest
+          tags: pngigena/flask-app:latest
